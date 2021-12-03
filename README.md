@@ -19,4 +19,4 @@ print(text)
 
 [Repository](https://github.com/MaxAcheson/Test_Repo_Git)
 
-![Liverpool Crest against a red and white background.](downloads/lfc.JPG)
+![Liverpool Crest against a red and white background.](https://seeklogo.com/images/L/liverpool-fc-logo-027452BE2B-seeklogo.com.jpg)
